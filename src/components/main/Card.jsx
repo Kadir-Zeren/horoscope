@@ -1,4 +1,6 @@
 const Card = ({ title, date, image, desc }) => {
+  //   console.log("ne geliyor", props);
+  //   const { title, date, image, desc } = props;
   return (
     <div className="cards">
       <div className="title">
